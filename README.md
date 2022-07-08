@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gelo3107
 - 👀 I’m interested in Java coding practice
 - 🌱 I’m currently learning Java on the beginner level
-- 📫 How to reach me - just send message here
 
 <!---
 gelo3107/gelo3107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
